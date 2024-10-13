@@ -1,0 +1,5 @@
+frontend -> npm i axios react-redux @reduxjs/toolkit
+to run -> npm run dev
+
+backend -> npm i body-parser cors express
+to run -> nodemon server.js
